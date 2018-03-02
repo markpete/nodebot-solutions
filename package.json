@@ -1,0 +1,10 @@
+{
+  "name": "nodebot-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "dnode": "^1.2.2",
+    "johnny-five": "^0.14.1",
+    "udp": "^1.0.0"
+  }
+}
